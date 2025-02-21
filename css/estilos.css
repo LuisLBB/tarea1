@@ -1,0 +1,96 @@
+.padre1{
+    background-color: orange;
+    width: 600px;
+    height: 100px;
+    text-align: center;
+    margin: 10px;
+    padding: 20px;
+}
+.padre2{
+    background-color: orange;
+    width: 600px;
+    height: 600px;
+    margin: 10px;
+    padding: 20px;
+    align-self: middle;
+}
+h1{
+    font-size: 35px;
+}
+.hijo1{
+    background-color: red;
+    width: 300px;
+    height: 300px;
+    border-radius: 300px;
+    align-self: center;
+    justify-self: center;    
+    align-items: center;
+    display: flex;    
+}
+.nieto1{
+    background-color: yellow;
+    width: 150px;
+    height: 150px;
+    border-radius: 300px;
+    margin-left: 75px;
+    align-self: center;
+    justify-self: center;    
+    align-items: center;
+    display: flex;
+}
+.bisnieto1{
+    background-color: greenyellow;
+    border-radius: 75px;
+    width: 75px;
+    height: 75px;
+    margin-left: 40px;
+    align-self: center;
+    justify-self: center;    
+    align-items: center;
+    display: flex;
+}
+
+.hijo2{
+    background-color: purple;
+    width: 300px;
+    height: 300px;
+    border-radius: 300px;
+    align-self: center;
+    justify-self: center;    
+    align-items: center;
+    display: flex;
+    margin-top: 20px;
+}
+.nieto2{
+    background-color: green;
+    width: 150px;
+    height: 150px;
+    border-radius: 300px;
+    margin-left: 75px;
+    align-self: center;
+    justify-self: center;    
+    align-items: center;
+    display: flex;
+}
+.bisnieto2{
+    background-color: orangered;
+    border-radius: 75px;
+    width: 75px;
+    height: 75px;
+    margin-left: 40px;
+    align-self: center;
+    justify-self: center;    
+    align-items: center;
+    display: flex;
+}
+.tataranieto{
+    background-color: black;
+    border-radius: 40px;
+    width: 40px;
+    height: 40px;
+    margin-left: 17px;
+    align-self: center;
+    justify-self: center;    
+    align-items: center;
+    display: flex;
+}
